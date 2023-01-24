@@ -1,2 +1,2 @@
 new branch test feature
-building trigger for jenkins
+building trigger for github jenkins
