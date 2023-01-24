@@ -1,2 +1,3 @@
 stash file checking
-pushing the code using jenkins 
+pushing the code using jenkins 
+checking for build automatically
